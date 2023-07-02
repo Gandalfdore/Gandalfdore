@@ -8,7 +8,7 @@
 ![My Image](/nail_image.jpg)
 
 - 🔭 I’m currently working on CNN Brain tumor recognition ML model
-- 🌱 I’m currently learning AWS tools, Neural Networks mathematics and Recommendation engines contrustion
+- 🌱 I’m currently learning AWS tools, Neural Networks mathematics and Recommendation engines construction
 - 👯 I’m looking to collaborate on any data science/ ML project
 
 <!--
