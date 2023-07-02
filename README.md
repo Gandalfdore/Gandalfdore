@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!-- LinkedIn-->
+<a href="//www.linkedin.com/in/portellaa/">
+    <img src="https://www.linkedin.com/in/boris-nedyalkov-768834137/" />
+</a>
+
 <!--
 **Gandalfdore/Gandalfdore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
