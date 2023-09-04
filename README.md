@@ -1,4 +1,4 @@
-### Welcome to the GitHub page of MoonPenguin, an insipiring Data Scientist 👋
+### Welcome to the GitHub page of MoonPenguin, an aspiring Data Scientist 👋
 
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/in/boris-nedyalkov-768834137/">
