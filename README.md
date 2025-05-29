@@ -1,4 +1,4 @@
-### Welcome to the GitHub page of MoonPenguin, an aspiring FullStack developer 👋
+### Welcome to the GitHub page of MoonPenguin, an aspiring Data Scientist and Backend developer 👋
 
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/in/boris-nedyalkov-768834137/">
