@@ -7,7 +7,7 @@
 
 ![My Image](/nail_image.jpg)
 
-- 🔭 I’m currently working on a AI-powered all-in-one HR software for <a href="https://blackpeaktechnologies.com/">
+- 🔭 I’m currently working on a AI-powered all-in-one HR software for [BlackPeak]("https://blackpeaktechnologies.com/")
 - 🌱 I’m currently learning Frontend developement
 - 👯 I’m looking to collaborate on any Data Science/GenAI/Fullstack projects
 
