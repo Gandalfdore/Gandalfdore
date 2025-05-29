@@ -1,4 +1,4 @@
-### Welcome to the GitHub page of MoonPenguin, an aspiring Data Scientist 👋
+### Welcome to the GitHub page of MoonPenguin, an aspiring FullStack developer 👋
 
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/in/boris-nedyalkov-768834137/">
@@ -7,9 +7,9 @@
 
 ![My Image](/nail_image.jpg)
 
-- 🔭 I’m currently working on CNN Brain tumor recognition ML model
-- 🌱 I’m currently learning AWS tools, Neural Networks mathematics and Recommendation engines construction
-- 👯 I’m looking to collaborate on any data science/ ML project
+- 🔭 I’m currently working on a AI-powered all-in-one HR software for <a href="https://blackpeaktechnologies.com/">
+- 🌱 I’m currently learning Frontend developement
+- 👯 I’m looking to collaborate on any Data Science/GenAI/Fullstack projects
 
 <!--
 **Gandalfdore/Gandalfdore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
